@@ -1,0 +1,20 @@
+{
+  "name": "mintcamp",
+  "version": "1.0.0",
+  "description": "Simple Campsite Booking ExpressJS App",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosdlroca/mintcamp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosdlroca/mintcamp/issues"
+  },
+  "homepage": "https://github.com/carlosdlroca/mintcamp#readme"
+}
