@@ -1,0 +1,31 @@
+:root {
+    --color-main: #39DAA2;
+    --color-text: #041814;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+    font-size: 62.5%;
+}
+
+html, body {
+    height: 100%;
+    min-height: 100%;
+}
+
+nav {
+    display: flex;
+    background-color: var(--color-main);
+    color: var(--color-text);
+}
+
+nav .nav-logo {
+    height: 4rem;
+    width: 4rem;
+}
